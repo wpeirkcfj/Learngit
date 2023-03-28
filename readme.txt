@@ -9,3 +9,4 @@ don't worry
 creating a new branch is quick
 creating a new branch is master
 creating a new branch is dev
+try fast forward
