@@ -11,3 +11,4 @@ creating a new branch is master
 creating a new branch is dev
 try fast forward
 try demo
+try conflict aaaaaaaaaaaa
